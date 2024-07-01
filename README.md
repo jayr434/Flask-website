@@ -1,2 +1,2 @@
 # Flask-website
-Trying flask with python
+A web application hosted using Flask
